@@ -1,0 +1,6 @@
+{
+  "name": "3 Years of Us - Anniversary & Boyfriend's Day",
+  "description": "A romantic, interactive anniversary and Boyfriend's Day celebration keepsake with live love counter, milestones timeline, reasons jar, polaroid gallery, love coupons, and secret letter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
